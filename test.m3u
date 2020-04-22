@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" tvg-country="INT" tvg-url="" group-title="Music",CMC
+#EXTINF:-1,A
 https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/CMC-TV.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" tvg-country="INT" tvg-url="" group-title="News",CBS
+#EXTINF:-1,B
 http://161.0.157.5/PLTV/88888888/224/3221227041/01.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" tvg-country="INT" tvg-url="" group-title="History",H2
+#EXTINF:-1,C
 http://livecdnh1.tvanywhere.ae/hls/h2/05.m3u8
