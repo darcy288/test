@@ -1,0 +1,247 @@
+#EXTM3U
+
+#EXTINF:-1,CNN
+http://nitro.ltd:25461/StevenD2020/StevFr2019/11664
+
+#EXTINF:-1,MSNBC
+http://nitro.ltd:25461/StevenD2020/StevFr2019/21784
+
+#EXTINF:-1,NBC
+http://161.0.157.8/PLTV/88888888/224/3221227040/index.m3u8
+
+#EXTINF:-1,NBC
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/22288.m3u8
+
+#EXTINF:-1,CBS
+http://161.0.157.5/PLTV/88888888/224/3221227041/01.m3u8
+
+#EXTINF:-1,ABC News
+https://abclive1-lh.akamaihd.net/i/abc_live01@423395/master.m3u8
+
+#EXTINF:-1,ABC News intl
+https://abclive1-lh.akamaihd.net/i/abc_live04@423398/index_4000_av-b.m3u8
+
+#EXTINF:-1,Sky News
+http://skydvn-sn-mobile-prod.skydvn.com/skynews/1404/latest.m3u8
+
+#EXTINF:-1,PBS EAST HD
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/22166.m3u8
+
+#EXTINF:-1,PBS HD
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/22285.m3u8
+
+#EXTINF:-1,PBS Buffalo HD
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/17425.m3u8
+
+#EXTINF:-1,PBS Miami
+http://190.80.3.28/PBS/PBS.isml/index.m3u8
+
+#EXTINF:-1,American Kennel Club
+https://video.blivenyc.com/broadcast/prod/2061/22/file-3192k.m3u8
+
+#EXTINF:-1,The Pet Collective
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-petcollective/CDN/1280x720_5000000/index.m3u8
+
+#EXTINF:-1,Dabl
+https://cbsta49f-dabl68fc.global.ssl.fastly.net/out/v1/dfecb53fbf434b6bbbfd91d8a2549381/manifest_24.m3u8
+
+#EXTINF:-1,Nat Geo
+http://nitro.ltd:25461/StevenD2020/StevFr2019/3433
+
+#EXTINF:-1,Nat Geo Wild
+http://nitro.ltd:25461/StevenD2020/StevFr2019/3377
+
+#EXTINF:-1,Nat Geo HD
+http://nitro.ltd:25461/StevenD2020/StevFr2019/11566
+
+#EXTINF:-1,Nat Geo HD
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/17443.m3u8
+
+#EXTINF:-1,Nat Geo Wild
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42046
+
+#EXTINF:-1,Nat Geo Wild
+http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
+
+#EXTINF:-1,Nat Geo Wild
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/17444.m3u8
+
+#EXTINF:-1,Nat Geo People
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42105
+
+National Geographic UK
+http://livecdnh1.tvanywhere.ae:80/hls/nat_geo/05.m3u8
+
+#EXTINF:-1,Nat Geo People Asia
+http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/05.m3u8
+
+#EXTINF:-1,Nat Geo Asia
+http://livecdnh1.tvanywhere.ae/hls/nat_geo/05.m3u8
+
+#EXTINF:-1,Animal Planet East
+http://nitro.ltd:25461/StevenD2020/StevFr2019/41576
+
+#EXTINF:-1,Animal Planet West
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42505
+
+#EXTINF:-1,Red Bull TV
+http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+
+#EXTINF:-1,Food Network HD
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/17438.m3u8
+
+#EXTINF:-1,Food Network East
+http://nitro.ltd:25461/StevenD2020/StevFr2019/11552
+
+#EXTINF:-1,Food Network West
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42506
+
+#EXTINF:-1,TasteMade
+https://tastemadessai.akamaized.net/amagi_hls_data_tastemade-tastemade/CDN/playlist.m3u8
+
+#EXTINF:-1,Food52
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-food52/CDN/1280x720_5000000/index.m3u8
+
+#EXTINF:-1,Cooking Channel HD
+http://nitro.ltd:25461/StevenD2020/StevFr2019/3678
+
+#EXTINF:-1,Cooking Channel SD
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/22205.m3u8
+
+#EXTINF:-1,A&E
+http://nitro.ltd:25461/StevenD2020/StevFr2019/12213
+
+#EXTINF:-1,A&E-2
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/22227.m3u8
+
+#EXTINF:-1,HBO
+http://nitro.ltd:25461/StevenD2020/StevFr2019/19658
+
+#EXTINF:-1,BBC America
+http://nitro.ltd:25461/StevenD2020/StevFr2019/3683
+
+#EXTINF:-1,BBC CANADA
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/22138.m3u8
+
+#EXTINF:-1,Discovery HD
+http://nitro.ltd:25461/StevenD2020/StevFr2019/41570
+
+#EXTINF:-1,Destination America
+http://nitro.ltd:25461/StevenD2020/StevFr2019/19684
+
+#EXTINF:-1,Discovery Ch East
+http://nitro.ltd:25461/StevenD2020/StevFr2019/41543
+
+#EXTINF:-1,Discovery Ch West
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42501
+
+#EXTINF:-1,Discovery Family
+http://nitro.ltd:25461/StevenD2020/StevFr2019/3676
+
+#EXTINF:-1,Discovery Life
+http://nitro.ltd:25461/StevenD2020/StevFr2019/41564
+
+#EXTINF:-1,Discovery SCI
+http://nitro.ltd:25461/StevenD2020/StevFr2019/41563
+
+#EXTINF:-1,DISCOVERY CANADA
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/22196.m3u8
+
+#EXTINF:-1,HGTV Canada
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/17446.m3u8
+
+#EXTINF:-1,HGTV East
+http://nitro.ltd:25461/StevenD2020/StevFr2019/5881
+
+#EXTINF:-1,HGTV
+http://nitro.ltd:25461/StevenD2020/StevFr2019/11573
+
+#EXTINF:-1,HGTV West
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42099
+
+#EXTINF:-1,Outdoor Channel HD
+http://nitro.ltd:25461/StevenD2020/StevFr2019/18449
+
+#EXTINF:-1,Outside TV HD
+http://nitro.ltd:25461/StevenD2020/StevFr2019/18551
+
+#EXTINF:-1,Smithsonian Ch (East)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22939
+
+#EXTINF:-1,Smithsonian Ch (West)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42562
+
+#EXTINF:-1,TLC HD East
+http://nitro.ltd:25461/StevenD2020/StevFr2019/5892
+
+#EXTINF:-1,TLC (West)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42502
+
+#EXTINF:-1,Travel Ch (East)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/3655
+
+#EXTINF:-1,Travel Ch (West)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42093
+
+#EXTINF:-1,OLN HD
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/22287.m3u8
+
+#EXTINF:-1,OUTDOOR LIFE NETWORK
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/22354.m3u8
+
+#EXTINF:-1,TRAVEL ESCAPE
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/22098.m3u8
+
+#EXTINF:-1,BBC 1
+http://nitro.ltd:25461/StevenD2020/StevFr2019/39727
+
+#EXTINF:-1,BBC 2
+http://nitro.ltd:25461/StevenD2020/StevFr2019/39726
+
+#EXTINF:-1,BBC 4
+http://nitro.ltd:25461/StevenD2020/StevFr2019/3447
+
+#EXTINF:-1,BBC 4
+http://nitro.ltd:25461/StevenD2020/StevFr2019/39724
+
+#EXTINF:-1,BBC NEWS
+http://nitro.ltd:25461/StevenD2020/StevFr2019/39723
+
+#EXTINF:-1,California Music Channel
+https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/CMC-TV.m3u8
+
+#EXTINF:-1,MTV HD
+http://nitro.ltd:25461/StevenD2020/StevFr2019/3662
+
+#EXTINF:-1,MUCH MUSIC
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/22349.m3u8
+
+#EXTINF:-1,Classic Arts
+https://classicarts.global.ssl.fastly.net/live/cas/master_3000k.m3u8
+
+#EXTINF:-1,HISTORY HD Canada
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/22293.m3u8
+
+#EXTINF:-1,Bravo (East)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42011
+
+#EXTINF:-1,Bravo (West)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/11532
+
+#EXTINF:-1,COTTAGE LIFE HD
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/22135.m3u8
+
+#EXTINF:-1,Filmrise Movies
+https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisefreemovies/CDN/676x540_2500000/index.m3u8
+
+#EXTINF:-1,FX Movie Channel HD
+http://nitro.ltd:25461/StevenD2020/StevFr2019/19682
+
+#EXTINF:-1,FXX HD East
+http://nitro.ltd:25461/StevenD2020/StevFr2019/3667
+
+#EXTINF:-1,FXX (backup)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/11668
+
+#EXTINF:-1,SHOWCASE EAST
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/22283.m3u8
