@@ -45,9 +45,6 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-petcollective/CDN/1280x720_500000
 #EXTINF:-1,Dabl
 https://cbsta49f-dabl68fc.global.ssl.fastly.net/out/v1/dfecb53fbf434b6bbbfd91d8a2549381/manifest_24.m3u8
 
-#EXTINF:-1,Nat Geo
-http://nitro.ltd:25461/StevenD2020/StevFr2019/3433
-
 #EXTINF:-1,Nat Geo Wild
 http://nitro.ltd:25461/StevenD2020/StevFr2019/3377
 
@@ -69,7 +66,7 @@ http://nitro.ltd:25461/live/StevenD2020/StevFr2019/17444.m3u8
 #EXTINF:-1,Nat Geo People
 http://nitro.ltd:25461/StevenD2020/StevFr2019/42105
 
-National Geographic UK
+#EXTINF:-1,National Geographic UK
 http://livecdnh1.tvanywhere.ae:80/hls/nat_geo/05.m3u8
 
 #EXTINF:-1,Nat Geo People Asia
@@ -144,7 +141,7 @@ http://nitro.ltd:25461/StevenD2020/StevFr2019/41564
 #EXTINF:-1,Discovery SCI
 http://nitro.ltd:25461/StevenD2020/StevFr2019/41563
 
-#EXTINF:-1,DISCOVERY CANADA
+#EXTINF:-1,Discovery Canada
 http://nitro.ltd:25461/live/StevenD2020/StevFr2019/22196.m3u8
 
 #EXTINF:-1,HGTV Canada
@@ -174,13 +171,13 @@ http://nitro.ltd:25461/StevenD2020/StevFr2019/42562
 #EXTINF:-1,TLC HD East
 http://nitro.ltd:25461/StevenD2020/StevFr2019/5892
 
-#EXTINF:-1,TLC (West)
+#EXTINF:-1,TLC West
 http://nitro.ltd:25461/StevenD2020/StevFr2019/42502
 
-#EXTINF:-1,Travel Ch (East)
+#EXTINF:-1,Travel Ch East
 http://nitro.ltd:25461/StevenD2020/StevFr2019/3655
 
-#EXTINF:-1,Travel Ch (West)
+#EXTINF:-1,Travel Ch West
 http://nitro.ltd:25461/StevenD2020/StevFr2019/42093
 
 #EXTINF:-1,OLN HD
@@ -231,17 +228,11 @@ http://nitro.ltd:25461/StevenD2020/StevFr2019/11532
 #EXTINF:-1,COTTAGE LIFE HD
 http://nitro.ltd:25461/live/StevenD2020/StevFr2019/22135.m3u8
 
-#EXTINF:-1,Filmrise Movies
-https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisefreemovies/CDN/676x540_2500000/index.m3u8
-
 #EXTINF:-1,FX Movie Channel HD
 http://nitro.ltd:25461/StevenD2020/StevFr2019/19682
 
 #EXTINF:-1,FXX HD East
 http://nitro.ltd:25461/StevenD2020/StevFr2019/3667
-
-#EXTINF:-1,FXX (backup)
-http://nitro.ltd:25461/StevenD2020/StevFr2019/11668
 
 #EXTINF:-1,SHOWCASE EAST
 http://nitro.ltd:25461/live/StevenD2020/StevFr2019/22283.m3u8
