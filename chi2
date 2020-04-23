@@ -27,10 +27,10 @@ http://skydvn-sn-mobile-prod.skydvn.com/skynews/1404/latest.m3u8
 #EXTINF:-1,PBS EAST HD
 http://nitro.ltd:25461/live/StevenD2020/StevFr2019/22166.m3u8
 
-#EXTINF:-1,PBS HD
+#EXTINF:-1,PBS WNED HD
 http://nitro.ltd:25461/live/StevenD2020/StevFr2019/22285.m3u8
 
-#EXTINF:-1,PBS Buffalo HD
+#EXTINF:-1,PBS WNED HD
 http://nitro.ltd:25461/live/StevenD2020/StevFr2019/17425.m3u8
 
 #EXTINF:-1,PBS Miami
